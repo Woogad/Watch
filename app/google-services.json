@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747975735347",
+    "firebase_url": "https://watchshop-e4193-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "watchshop-e4193",
+    "storage_bucket": "watchshop-e4193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747975735347:android:4688677bb6627c91bbcb46",
+        "android_client_info": {
+          "package_name": "com.example.watchshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747975735347-l0ug67kovk7rhn9ji5tf2759jfdf766o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2FKZSaVrNY-u7qS0JVMKyUxFdnSKz_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747975735347-l0ug67kovk7rhn9ji5tf2759jfdf766o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
